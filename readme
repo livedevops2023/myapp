@@ -1,0 +1,7 @@
+sudo apt install ansible
+
+use the above command to install ansible
+
+ansible-playbook -vvv deploy.yml
+
+run to deploy application
