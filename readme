@@ -5,3 +5,5 @@ use the above command to install ansible
 ansible-playbook -vvv deploy.yml
 
 run to deploy application
+
+To make any changes on code create your own branch do the change, make a pull request and request for peer review
